@@ -4,5 +4,5 @@ Things i learned:
 	
 	
 
-**[Live site](http://zzer0.com/javascript30/Day5-Flex_panels_image_gallery/index-START.html)**
+**[Live site](http://zzer0.com/javascript30/Day5-Flex_panels_imge_gallery/index-START)**
 
